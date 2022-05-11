@@ -6,13 +6,14 @@ class Student:
     def __init__(self):
         self.name = "David Ackerman"
         self.role = "Student"
-        self.language_spoken = ["en_US"]
+        self.age = "15"
+        self.language_spoken = "en_US"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for visiting my page!")
 
 me = Student()
-me.say_hi()
+me.say_hello()
 ```
 
 
@@ -53,6 +54,7 @@ me.say_hi()
         <tr><td><b>Twitter</b></td><td><b><a href="https://twitter.com/GirattleGFX">@GirattleGFX</a></b></td></tr>
         <tr><td><b>Linked In</b></td><td><b><a href="https://www.linkedin.com/in/david-ackerman-857792206/">u/David Ackerman</a></b></td></tr>
     </table>
+    Want to buy me a coffie? Go ahead! https://buymeacoffee.com/girattle
     </div>
    <br>
 </details>
