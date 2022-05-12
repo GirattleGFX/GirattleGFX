@@ -58,3 +58,6 @@ me.say_hello()
     </div>
    <br>
 </details>
+
+![Hits](https://hits.link/hits?url=https://github.com/GirattleGFX&label=views&bgRight=ff69b4)
+
