@@ -40,7 +40,7 @@ me.say_hello()
 <details> 
   <summary>📄 Status</summary>
     <br>
-    <a href="https://discord.com/users/650060151230955573"><img alt="Discord Status" src="https://lanyard.cnrad.dev/api/650060151230955573"></a>
+    <a href="https://discord.com/users/650060151230955573"><img alt="Discord Status" src="https://lanyard.cnrad.dev/api/650060151230955573?theme=dark&bg=00000000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..."></a>
     <br>
 </details>
 
