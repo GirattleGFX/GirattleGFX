@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/839948164022009936/973631852193677403/DavidA_WaterDesign_Banner.png)
+![](https://media.discordapp.net/attachments/961004017843069018/979920572123349022/NewBanner.png?width=1441&height=324)
 <br>
 ```python
 class Student:
@@ -13,7 +13,7 @@ class Student:
         print("Thanks for visiting my page!")
 
 me = Student()
-me.say_hello()
+me.say_hi()
 ```
 
 
