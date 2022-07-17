@@ -54,7 +54,7 @@ me.say_hi()
         <tr><td><b>Twitter</b></td><td><b><a href="https://twitter.com/GirattleGFX">@GirattleGFX</a></b></td></tr>
         <tr><td><b>Linked In</b></td><td><b><a href="https://www.linkedin.com/in/david-ackerman-857792206/">u/David Ackerman</a></b></td></tr>
     </table>
-    Want to buy me a coffie? Go ahead! https://buymeacoffee.com/girattle
+    Want to buy me a coffee? Go ahead! https://buymeacoffee.com/girattle
     </div>
    <br>
 </details>
