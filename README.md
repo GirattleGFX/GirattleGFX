@@ -17,8 +17,6 @@ me.say_hi()
 ```
 
 
-
-
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -26,6 +24,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-HTML_and_CSS-informational?style=flat&logo=html&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 
 <details> 
   <summary>💻 GitHub Profile Statistics</summary>
@@ -59,5 +58,4 @@ me.say_hi()
    <br>
 </details>
 
-![Hits](https://hits.link/hits?url=https://github.com/GirattleGFX&label=views&bgRight=ff69b4)
-
+<!-- ![Hits](https://hits.link/hits?url=https://github.com/GirattleGFX&label=views&bgRight=ff69b4) -->
